@@ -7,4 +7,6 @@ To use this script at the Google Ads MCC level:
 The current argument of the AdwordsApp.account class from the Adwords API provides information about the account in 
 which the script is currently running. At the MCC level this process iterates through multiple accounts.
 
-reference: https://developers.google.com/adwords/scripts/docs/examples/mcc-scripts#update-multiple-accounts-in-series
+Reference: 
+
+<a href="https://developers.google.com/adwords/scripts/docs/examples/mcc-scripts#update-multiple-accounts-in-series" title="google.com" rel="nofollow">Update</a></li> multiple accounts in series.
